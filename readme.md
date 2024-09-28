@@ -1,3 +1,4 @@
+<img width="479" alt="Screenshot 2024-09-28 153157" src="https://github.com/user-attachments/assets/82a00d7c-b5fc-4fa3-82cd-a322e4ae7a57">
 # 📄 PDF Question Answering with Speech Conversion
 
 ## Overview
